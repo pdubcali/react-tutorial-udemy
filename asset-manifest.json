@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-tutorial-udemy/static/css/main.5ac74afd.chunk.css",
+    "main.css": "/react-tutorial-udemy/static/css/main.97f45e47.chunk.css",
     "main.js": "/react-tutorial-udemy/static/js/main.9f6ff3f6.chunk.js",
     "main.js.map": "/react-tutorial-udemy/static/js/main.9f6ff3f6.chunk.js.map",
     "runtime-main.js": "/react-tutorial-udemy/static/js/runtime-main.979a5a5e.js",
@@ -8,15 +8,15 @@
     "static/js/2.defbf29e.chunk.js": "/react-tutorial-udemy/static/js/2.defbf29e.chunk.js",
     "static/js/2.defbf29e.chunk.js.map": "/react-tutorial-udemy/static/js/2.defbf29e.chunk.js.map",
     "index.html": "/react-tutorial-udemy/index.html",
-    "precache-manifest.f511599d16311a70177096d52edcd8a3.js": "/react-tutorial-udemy/precache-manifest.f511599d16311a70177096d52edcd8a3.js",
+    "precache-manifest.f2513f36d28349888bd317c69118e605.js": "/react-tutorial-udemy/precache-manifest.f2513f36d28349888bd317c69118e605.js",
     "service-worker.js": "/react-tutorial-udemy/service-worker.js",
-    "static/css/main.5ac74afd.chunk.css.map": "/react-tutorial-udemy/static/css/main.5ac74afd.chunk.css.map",
+    "static/css/main.97f45e47.chunk.css.map": "/react-tutorial-udemy/static/css/main.97f45e47.chunk.css.map",
     "static/js/2.defbf29e.chunk.js.LICENSE.txt": "/react-tutorial-udemy/static/js/2.defbf29e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.979a5a5e.js",
     "static/js/2.defbf29e.chunk.js",
-    "static/css/main.5ac74afd.chunk.css",
+    "static/css/main.97f45e47.chunk.css",
     "static/js/main.9f6ff3f6.chunk.js"
   ]
 }
